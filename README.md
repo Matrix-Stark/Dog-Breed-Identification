@@ -19,7 +19,4 @@ This Dog Breed Identification project is designed to accurately classify dog bre
                           https://drive.google.com/file/d/1wlQfy8rb_XCnZMTOqVX0052CKOHDp2Td/view?usp=drive_link
 
 ## Output
-![first-image](Screenshot 2024-01-30 233118.png)
-![second-image](Screenshot 2024-01-30 222413.png)
-![third-image](Screenshot 2024-01-30 214532.png)
-![My Image](my-image.jpg)
+![My Image](Image_1.png)
